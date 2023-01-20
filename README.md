@@ -1,2 +1,2 @@
 # Google-Image-download
-Download images using selenium and python
+Download google image searches using selenium and python
